@@ -1,1 +1,3 @@
 # WebProject_v3
+
+A responsive website build from scratch for a University project...
